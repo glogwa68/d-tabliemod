@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dtablie_mod:blocks/ventilo3",
+    "up": "dtablie_mod:blocks/ventilo3",
+    "north": "dtablie_mod:blocks/ventilo",
+    "east": "dtablie_mod:blocks/ventilo3",
+    "south": "dtablie_mod:blocks/ventilo2",
+    "west": "dtablie_mod:blocks/ventilo3",
+    "particle": "dtablie_mod:blocks/ventilo3"
+  }
+}
